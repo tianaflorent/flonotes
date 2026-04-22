@@ -1,16 +1,16 @@
-# 📝 FloNotes
+#  FloNotes
 
 > Application mobile de prise de notes personnelle, sécurisée et moderne, développée avec React Native & Expo.
 
 ---
 
-## 📱 Aperçu
+##  Aperçu
 
 FloNotes est une application fullstack permettant à chaque utilisateur de créer, organiser et retrouver ses notes personnelles. Chaque compte dispose de ses propres notes, favoris, archives et corbeille, stockés en base de données MySQL.
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - 🔐 **Authentification** — Inscription / Connexion sécurisée avec JWT
 - 📝 **Création de notes** — Éditeur avec formatage (gras, italique, couleurs, polices)
@@ -24,7 +24,7 @@ FloNotes est une application fullstack permettant à chaque utilisateur de crée
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 | Couche | Technologie |
 |---|---|
@@ -40,7 +40,7 @@ FloNotes est une application fullstack permettant à chaque utilisateur de crée
 
 ---
 
-## 🗄️ Structure de la Base de Données
+##  Structure de la Base de Données
 
 ```
 users
@@ -65,7 +65,7 @@ notes
 └── created_at (TIMESTAMP)
 ```
 
-**Relation :** 1 user → N notes (One-to-Many)
+**Relation :** 1 user → N notes
 
 ---
 
@@ -127,7 +127,7 @@ flonotes/
 
 ---
 
-## 🚀 Installation & Lancement
+##  Installation & Lancement
 
 ### Prérequis
 
@@ -230,7 +230,7 @@ Scannez le QR code avec **Expo Go** sur votre téléphone.
 
 ## 👨‍💻 Auteur
 
-Développé par **[Votre Nom]**
+Développé par **TIANA Florent**
 
 ---
 
